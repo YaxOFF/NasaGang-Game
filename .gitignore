@@ -1,0 +1,13 @@
+# Local-only material: never commit these into this repository.
+# GMAT (engine / source) and the Gmat-Web base live outside this repo.
+GMAT/
+GMAT-src/
+gmat-win-*/
+gmat-ubuntu-*/
+gmat_web/
+Gmat-Web/
+gmat-web/
+
+# Personal working log
+BITACORA.md
+projectContext/
