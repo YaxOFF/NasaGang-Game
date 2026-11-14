@@ -16,3 +16,26 @@ https://www.spaceappschallenge.org/2026/challenges/space-mission-design-game/?ta
 # Miro brainstorm
 
 https://miro.com/welcome/NEllKzlTNTJhcEpwakV1ODU4VTBGRElOdCtKWE1tY1JjSFE2ZStiNC8xN0dwNEVXMmx4Y25zZnk5UjNOY0tXKzFxZm5FaGZlSXVsYUtYLy9kNXY5Q212b1FOczhHdm1zaWJZK0JaUmNXUDhtQWJVM2UwS3ZWTUM3SGxROVg2SUVwSXI4MHFRL3JZN1QvSlQ0ZjA5aEdRPT0hdjE=?share_link_id=105255313476
+
+# Web-Based Space Mission Visualization
+
+https://nasa.github.io/mission-viz/
+
+# Concept Maturity Levels
+
+https://dataverse.jpl.nasa.gov/dataset.xhtml?persistentId=hdl:2014/44299
+
+# Mission Design Lab 
+
+https://etd.gsfc.nasa.gov/capabilities/integrated-design-center/mission-design-lab/
+
+
+# A Learning Game About Telescopes
+
+https://science.nasa.gov/mission/webb/game-build-it-yourself/
+
+# Cubesat 101 - Basic Concepts and Processes for First-Time CubeSat Developers
+
+https://www3.nasa.gov/sites/default/files/atoms/files/nasa_csli_cubesat_101_508.pdf
+
+
