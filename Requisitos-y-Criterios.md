@@ -1,157 +1,157 @@
-# Requisitos y criterios — NASA Space Apps 2026
+# Requirements and Criteria — NASA Space Apps 2026
 
-Qué debemos cumplir para que el proyecto sea evaluado y para que puntúe bien. Extraído de las guías oficiales el 14 de noviembre de 2026.
+What we must meet for the project to be evaluated and to score well. Extracted from the official guides on November 14, 2026.
 
-Fuentes:
+Sources:
 - Judging & Awards Guide: https://www.spaceappschallenge.org/resources/judging-awards-guide/
 - Project Submission Guide: https://www.spaceappschallenge.org/resources/project-submission-guide/
 - Participant FAQs: https://www.spaceappschallenge.org/resources/participant-faqs/
 
-## Fechas clave
+## Key Dates
 
-| Fecha | Qué pasa |
+| Date | What happens |
 |---|---|
-| Sábado 14 nov 2026, 9:00 a.m. | Abre la entrega de proyectos (hora del evento local) |
-| **Domingo 15 nov 2026, 11:59 p.m.** | **Cierra la entrega.** Hora del evento local. En el Universal Event cuenta la hora local del Team Owner |
-| 3 dic 2026 | Anuncio de Global Nominees |
-| 17 dic 2026 | Anuncio de Global Finalists y Honorable Mentions |
-| 26 ene 2027 | Anuncio de Global Winners |
+| Saturday, Nov 14, 2026, 9:00 a.m. | Project submission opens (local event time) |
+| **Sunday, Nov 15, 2026, 11:59 p.m.** | **Submission closes.** Local event time. In the Universal Event, the Team Owner's local time applies |
+| Dec 3, 2026 | Global Nominees announcement |
+| Dec 17, 2026 | Global Finalists and Honorable Mentions announcement |
+| Jan 26, 2027 | Global Winners announcement |
 
-El evento local puede tener un horario distinto para su jueceo local. Confirmar con el Local Lead.
+The local event may have a different schedule for local judging. Confirm with the Local Lead.
 
-Lo que se guarde o envíe después de la hora de cierre no se evalúa. Se puede editar y reenviar las veces que se quiera antes del cierre; cuenta la última versión guardada.
+Anything saved or submitted after the closing time will not be evaluated. You can edit and resubmit as many times as you want before closing; the last saved version counts.
 
-## Requisitos obligatorios (si falta uno, no hay jueceo global)
+## Mandatory Requirements (if one is missing, there is no global judging)
 
-| # | Requisito | Detalle | Hecho |
+| # | Requirement | Detail | Done |
 |---|---|---|---|
-| 1 | Responder a un reto oficial | Space Mission Design Game. Un equipo solo puede trabajar un reto | [ ] |
-| 2 | Equipo registrado | Todos registrados, en el mismo evento local, sin lista de espera, y visibles en la pestaña Members. No se agregan miembros después del cierre | [ ] |
-| 3 | Tamaño del equipo | Máximo 6. Mínimo 1 en evento local, mínimo 2 en Universal Event | [ ] |
-| 4 | Formulario completo | Todos los campos obligatorios de la página del proyecto | [ ] |
-| 5 | Demo | Video de **máximo 30 segundos** o presentación de **máximo 7 diapositivas** (cuenta título e introducción). Si se pasa del límite, queda fuera | [ ] |
-| 6 | Todo en inglés | Página del proyecto y **todo material enlazado**. Única excepción: el video puede estar hablado en otro idioma si lleva subtítulos en inglés. Las diapositivas van en inglés | [ ] |
-| 7 | Links públicos | Demo y proyecto final accesibles sin contraseña, permiso ni registro. Probarlos en ventana privada | [ ] |
-| 8 | Enviar a tiempo | Botón "Submit for Judging" antes del domingo 15 nov, 11:59 p.m. | [ ] |
-| 9 | Aceptar términos | Casilla de Terms and Conditions y Privacy Policy | [ ] |
-| 10 | Trabajo original | Casilla que confirma trabajo original y que todo recurso externo (código, texto, imágenes, aunque sea open source) está en el campo References. Nada con copyright sin permiso | [ ] |
-| 11 | Sin menores en el material | Ninguna imagen, video, audio o voz de personas menores de 18 años en el demo ni en el proyecto | [ ] |
-| 12 | Revisión de afiliación con China | NASA revisa a cada equipo por su política de restricción de fondos | [ ] |
+| 1 | Respond to an official challenge | Space Mission Design Game. A team can only work on one challenge | [ ] |
+| 2 | Registered team | Everyone registered, in the same local event, off the waitlist, and visible in the Members tab. No members can be added after closing | [ ] |
+| 3 | Team size | Maximum 6. Minimum 1 in local event, minimum 2 in Universal Event | [ ] |
+| 4 | Complete form | All mandatory fields on the project page | [ ] |
+| 5 | Demo | Video of **maximum 30 seconds** or presentation of **maximum 7 slides** (title and introduction count). Going over the limit disqualifies it | [ ] |
+| 6 | Everything in English | Project page and **all linked material**. Only exception: the video may be spoken in another language if it has English subtitles. Slides must be in English | [ ] |
+| 7 | Public links | Demo and final project accessible without password, permission, or registration. Test them in a private/incognito window | [ ] |
+| 8 | Submit on time | "Submit for Judging" button before Sunday, Nov 15, 11:59 p.m. | [ ] |
+| 9 | Accept terms | Terms and Conditions and Privacy Policy checkboxes | [ ] |
+| 10 | Original work | Checkbox confirming original work and that all external resources (code, text, images, even open source) are in the References field. Nothing copyrighted without permission | [ ] |
+| 11 | No minors in the material | No image, video, audio, or voice of anyone under 18 in the demo or the project | [ ] |
+| 12 | China affiliation review | NASA reviews each team under its funding restriction policy | [ ] |
 
-Requisito extra para ganar un premio global: **usar al menos un dato o recurso de NASA**.
+Extra requirement to win a global award: **use at least one NASA dataset or resource**.
 
-## Criterios de evaluación
+## Evaluation Criteria
 
-Cada criterio se califica de 1 a 5, en todas las fases (local, global y ejecutiva).
+Each criterion is scored from 1 to 5, across all phases (local, global, and executive).
 
-| Criterio | Qué evalúan | Qué pide un 5 | Cómo lo cubrimos en el juego |
+| Criterion | What they evaluate | What a 5 requires | How we cover it in the game |
 |---|---|---|---|
-| **Impact** | Qué tan grande es el problema que atiende y a cuánta gente ayuda o inspira | Problema significativo, alcance amplio, calidad que supera expectativas | Decir claro a quién sirve: estudiantes y maestros sin acceso a herramientas de diseño de misión. Que corra en navegador, sin instalar nada |
-| **Creativity** | Originalidad: idea nueva o mejora real sobre lo existente | Enfoque que no se ha intentado, que rompe el método convencional | Roles con metas en conflicto, eventos aleatorios, reporte que explica el porqué. Evitar un formulario con barras y ya |
-| **Validity** | Base científica, factibilidad técnica, qué tan completo y usable es | Científicamente sólido, completamente desarrollado, fácil de usar | Números basados en misiones y cohetes reales. Juego terminado de principio a fin, sin pantallas rotas. Que alguien nuevo lo entienda solo |
-| **Relevance** | Qué tan directo responde al reto y qué tan integrado está el dato de NASA | Atiende el reto a fondo y **el dato de NASA es parte central, no un adorno** | Cumplir la lista de la sección siguiente. Los datos de NASA deben alimentar las mecánicas (componentes, cohetes, órbitas), no solo aparecer como un link |
-| **Presentation** | Qué tan bien se comunica el reto, la solución y su importancia | Presentación estructurada, pulida, con historia que engancha | Demo de 30 s bien ensayado y página del proyecto completa. Los jueces usan el demo y el proyecto completo para esta nota |
+| **Impact** | How big the problem being addressed is and how many people it helps or inspires | Significant problem, broad reach, quality exceeding expectations | Clearly state who it serves: students and teachers without access to mission design tools. Runs in a browser, no installation required |
+| **Creativity** | Originality: new idea or real improvement over what exists | Approach not tried before, breaking the conventional method | Roles with conflicting goals, random events, report that explains why. Avoid just a form with bars |
+| **Validity** | Scientific basis, technical feasibility, how complete and usable it is | Scientifically sound, fully developed, easy to use | Numbers based on real missions and rockets. Game finished from start to finish, no broken screens. Someone new can understand it on their own |
+| **Relevance** | How directly it responds to the challenge and how integrated NASA data is | Addresses the challenge thoroughly and **NASA data is a central part, not a decoration** | Meet the list in the next section. NASA data must feed the mechanics (components, rockets, orbits), not just appear as a link |
+| **Presentation** | How well the challenge, solution, and its importance are communicated | Structured, polished presentation with an engaging story | Well-rehearsed 30-second demo and complete project page. Judges use the demo and the full project for this score |
 
-La guía advierte que muchos equipos descuidan Presentation. Recomienda asignar a una persona a contar la historia del proyecto.
+The guide warns that many teams neglect Presentation. It recommends assigning one person to tell the project's story.
 
-## Cobertura del reto (para el criterio Relevance)
+## Challenge Coverage (for the Relevance criterion)
 
-Lo que el enunciado dice que tendría una "solución fuerte":
+What the challenge prompt says a "strong solution" would have:
 
-| Elemento del reto | Estado |
+| Challenge element | Status |
 |---|---|
-| Juego o simulación funcional e interactivo | [ ] |
-| Interfaz de usuario clara | [ ] |
-| Sistema de configuración de misión (objetivo, nave, instrumentos, cohete, órbita) | [ ] |
-| Gestión de recursos visible: masa, potencia, presupuesto, datos, comunicaciones, tiempo | [ ] |
-| Cada decisión importante tiene consecuencia en otros recursos | [ ] |
-| Verificación de compatibilidad entre masa, órbita y cohete | [ ] |
-| Simulación y evaluación de la misión | [ ] |
-| Feedback que explica por qué la misión tuvo éxito o falló | [ ] |
-| Puntaje que premia ciencia, eficiencia y buenas decisiones | [ ] |
-| Colaboración o multijugador de hasta 4 participantes (opcional en el enunciado) | [ ] |
-| Explicaciones simples de los conceptos, apto para principiantes | [ ] |
-| Más de una solución válida para el mismo objetivo | [ ] |
+| Functional and interactive game or simulation | [ ] |
+| Clear user interface | [ ] |
+| Mission configuration system (objective, spacecraft, instruments, rocket, orbit) | [ ] |
+| Visible resource management: mass, power, budget, data, communications, time | [ ] |
+| Every major decision has consequences on other resources | [ ] |
+| Compatibility check between mass, orbit, and rocket | [ ] |
+| Mission simulation and evaluation | [ ] |
+| Feedback explaining why the mission succeeded or failed | [ ] |
+| Scoring that rewards science, efficiency, and good decisions | [ ] |
+| Collaboration or multiplayer of up to 4 participants (optional in prompt) | [ ] |
+| Simple explanations of concepts, suitable for beginners | [ ] |
+| More than one valid solution for the same objective | [ ] |
 
-## Uso de datos de NASA
+## Use of NASA Data
 
-Es obligatorio para premio global y es la mitad del criterio Relevance. El campo "NASA Data" del formulario pide detalles específicos de qué datos y recursos se usaron.
+It is mandatory for a global award and makes up half of the Relevance criterion. The form's "NASA Data" field asks for specific details on what data and resources were used.
 
-La pestaña Resources del reto no tenía material al revisarla. Hay que volver a revisarla, porque los recursos se publicaban el 13 de noviembre.
+The challenge's Resources tab had no material when checked. We must check it again, as resources were scheduled to be published on November 13.
 
-Fuentes candidatas para este juego (verificar cada una antes de citarla):
+Candidate sources for this game (verify each one before citing):
 
-| Para qué | Fuente candidata |
+| Purpose | Candidate source |
 |---|---|
-| Capacidad de carga de cohetes por órbita | NASA Launch Services Program, herramienta de desempeño de vehículos de lanzamiento |
-| Masa, potencia e instrumentos de naves reales | NASA Space Science Data Coordinated Archive (NSSDCA), catálogo de naves |
-| Misiones reales como escenarios | Páginas de misión de NASA Science |
-| Comunicaciones con espacio profundo | NASA Deep Space Network |
-| Modelos e imágenes de naves | NASA 3D Resources, NASA Image and Video Library |
+| Rocket payload capacity by orbit | NASA Launch Services Program, Launch Vehicle Performance Website |
+| Mass, power, and instruments of real spacecraft | NASA Space Science Data Coordinated Archive (NSSDCA), spacecraft catalog |
+| Real missions as scenarios | NASA Science mission pages |
+| Deep space communications | NASA Deep Space Network |
+| Spacecraft models and images | NASA 3D Resources, NASA Image and Video Library |
 
-También se recomienda usar datos de las agencias socias 2026 (ESA, JAXA, CSA, ISRO, Agencia Espacial Brasileña, CONAE de Argentina, Agencia Espacial Española y otras). Van en el campo "Space Agency Partner Data and Other References".
+Using data from 2026 partner agencies (ESA, JAXA, CSA, ISRO, Brazilian Space Agency, Argentina's CONAE, Spanish Space Agency, and others) is also recommended. They go in the "Space Agency Partner Data and Other References" field.
 
-## Campos del formulario de entrega
+## Submission Form Fields
 
-| Campo | Qué poner |
+| Field | What to put |
 |---|---|
-| Project Name | Nombre del proyecto |
-| High-Level Project Summary | Qué hicimos, cómo responde al reto y por qué importa |
-| Link to Project Demo | Link público al video de 30 s o a las 7 diapositivas |
-| Link to Final Project | Link público al juego o al repositorio |
-| Detailed Project Description | Qué hace, cómo funciona, beneficios, qué esperamos lograr, herramientas y lenguajes usados |
-| Use of Super Intelligence (SI) | Si usamos herramientas de IA y cómo. La guía de 2026 las llama "Super Intelligence (SI)" |
-| NASA Data | Datos y recursos de NASA usados, con detalle |
-| Space Agency Partner Data and Other References | Todo dato, código, texto, imagen y herramienta externa |
+| Project Name | Name of the project |
+| High-Level Project Summary | What we did, how it responds to the challenge, and why it matters |
+| Link to Project Demo | Public link to the 30s video or the 7 slides |
+| Link to Final Project | Public link to the game or repository |
+| Detailed Project Description | What it does, how it works, benefits, what we hope to achieve, tools and languages used |
+| Use of Super Intelligence (SI) | Whether we used AI tools and how. The 2026 guide calls them "Super Intelligence (SI)" |
+| NASA Data | NASA data and resources used, in detail |
+| Space Agency Partner Data and Other References | All external data, code, text, images, and tools |
 
-La página acepta imágenes (JPG, PNG, GIF, hasta 10 MB). No acepta videos ni documentos: van en un servicio externo con link público.
+The page accepts images (JPG, PNG, GIF, up to 10 MB). It does not accept videos or documents: those go on an external service with a public link.
 
-## Reglas sobre uso de IA
+## Rules on AI Use
 
-Usar IA está permitido para acelerar el trabajo. No debe usarse para idear la solución del reto.
+Using AI is allowed to speed up work. It must not be used to ideate the solution to the challenge.
 
-- Imágenes y videos generados: marca de agua visible que indique que son generados.
-- Audio generado: declararlo en texto descriptivo y metadatos.
-- Código y datos generados: declararlo en texto descriptivo y metadatos.
-- El contenido generado no puede usar ni modificar logos, banderas o identificadores de misión de NASA.
-- Los jueces no ven la respuesta del campo SI, pero sí ven las marcas dentro del proyecto y evalúan originalidad con base en ellas.
+- Generated images and videos: visible watermark indicating they are generated.
+- Generated audio: declare it in descriptive text and metadata.
+- Generated code and data: declare it in descriptive text and metadata.
+- Generated content cannot use or modify NASA logos, flags, or mission identifiers.
+- Judges do not see the SI field response, but they do see the markings within the project and evaluate originality based on them.
 
-Este repositorio se trabaja con asistencia de IA. Hay que declararlo en el campo SI y en el README del proyecto.
+This repository is being worked on with AI assistance. It must be declared in the SI field and in the project's README.
 
-## Estructura recomendada del demo
+## Recommended Demo Structure
 
-Video, máximo 30 segundos:
+Video, maximum 30 seconds:
 
-| Tiempo | Contenido |
+| Time | Content |
 |---|---|
-| 0:00 | Nombre de quien presenta y del equipo |
-| 0:02 | Qué reto atendemos y qué nos inspiró |
-| 0:05 | Nombre del proyecto y frase gancho |
-| 0:10 | Cómo funciona: imágenes del juego, experiencia del usuario, cómo los datos de NASA lo hacen posible |
-| 0:20 a 0:30 | Qué puede lograr a futuro |
+| 0:00 | Name of the presenter and the team |
+| 0:02 | Which challenge we address and what inspired us |
+| 0:05 | Project name and hook phrase |
+| 0:10 | How it works: gameplay footage, user experience, how NASA data makes it possible |
+| 0:20 to 0:30 | What it can achieve in the future |
 
-Si es presentación, las diapositivas deben incluir: nombre del equipo, nombres de los integrantes, el reto elegido, una imagen del proyecto, la experiencia del usuario y cómo se usan los datos de NASA.
+If it is a presentation, the slides must include: team name, team members' names, chosen challenge, an image of the project, user experience, and how NASA data is used.
 
-## Premios globales
+## Global Awards
 
-Diez categorías. Las más alcanzables para un juego educativo:
+Ten categories. The most attainable for an educational game:
 
-| Premio | Qué reconoce |
+| Award | What it recognizes |
 |---|---|
-| Best Mission Concept | El concepto y diseño más plausible |
-| Most Inspirational | El proyecto que más emociona |
-| Art & Technology | La mejor combinación de habilidades técnicas y creativas |
-| Best Storytelling | La mejor comunicación del potencial de los datos abiertos |
-| Best Use of Data | El que mejor hace accesibles los datos espaciales |
+| Best Mission Concept | The most plausible concept and design |
+| Most Inspirational | The project that inspires the most |
+| Art & Technology | The best combination of technical and creative skills |
+| Best Storytelling | The best communication of the potential of open data |
+| Best Use of Data | The one that best makes space data accessible |
 
-Las otras cinco: Best Use of Science, Best Use of Technology, Galactic Impact, Global Connection y Local Impact.
+The other five: Best Use of Science, Best Use of Technology, Galactic Impact, Global Connection, and Local Impact.
 
-Todo equipo que entregue a tiempo recibe certificado de participación.
+Every team that submits on time receives a certificate of participation.
 
-## Consecuencias para nuestro plan
+## Consequences for Our Plan
 
-1. **El juego va en inglés.** Textos, tooltips y reporte. La documentación interna puede seguir en español, pero lo que se enlace en la entrega debe estar en inglés.
-2. **Los datos de NASA entran a las mecánicas.** Los números de cohetes, órbitas e instrumentos salen de fuentes de NASA y se citan.
-3. **Una persona se dedica al demo y a la página del proyecto** desde hoy, no al final.
-4. **El juego se publica en un link abierto** (por ejemplo GitHub Pages) y el repositorio queda público.
-5. **Se lleva una lista de referencias desde el primer commit**: cada librería, imagen y dato externo.
+1. **The game will be in English.** Texts, tooltips, and report. Internal documentation can remain in Spanish, but anything linked in the submission must be in English.
+2. **NASA data goes into the mechanics.** Rocket, orbit, and instrument numbers come from NASA sources and are cited.
+3. **One person is dedicated to the demo and project page** starting today, not at the end.
+4. **The game is published on an open link** (e.g., GitHub Pages) and the repository remains public.
+5. **A list of references is kept from the very first commit**: every library, image, and external dataset.
